@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to all the merchants in London, and such as buy and sell with an advisement to them to lay aside their superfluity, and with it to nouirish the poor / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40320</idno>
+            <idno type="STC">Wing F1985</idno>
+            <idno type="STC">ESTC R37831</idno>
+            <idno type="EEBO-CITATION">17061129</idno>
+            <idno type="OCLC">ocm 17061129</idno>
+            <idno type="VID">105853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1616:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to all the merchants in London, and such as buy and sell with an advisement to them to lay aside their superfluity, and with it to nouirish the poor / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Merchants --  England --  London.</term>
+               <term>Charity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105853:1"/>
+            <p>A WARNING To all the MERCHANTS IN LONDON. AND Such as Buy and Sell.</p>
+            <p>WITH An Adviſement to them to lay a<g ref="char:EOLhyphen"/>ſide their ſuperfluity, and with it to nouriſh the POOR.</p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105853:2"/>
+            <pb n="1" facs="tcp:105853:2"/>
+            <head>A WARNING To all the MERCHANTS IN <hi>LONDON,</hi> &amp;c.</head>
+            <p>FOR them to keep to yea and nay to all people in their common occaſions, for whatſoever is more then theſe, cometh of evil; and to take heed of de<g ref="char:EOLhyphen"/>ceitful merchandize, and cozening, and cheating, and de<g ref="char:EOLhyphen"/>frauding one another, and diſſembling one with another; and to take heed of deceitful Merchandize in all their buying and ſelling, and in all their Exchange; away with all deceitful Merchandize, for as a ſwift Witneſs is the Lord come to plead with you, and againſt you that uſe deceit<g ref="char:EOLhyphen"/>fulneſs in your Merchandize, and uſe it in your buying and ſelling, and Sir, and bow the Hat, and ſcrape the foot, and make the courſie, and Maſter, and Miſtris, in your ſer<g ref="char:EOLhyphen"/>vice, and forſooth, this is your vain cuſtom, and ask ma<g ref="char:EOLhyphen"/>ny times the worth double of the thing to ſome people; and under this complementing way, and in it, lies the de<g ref="char:EOLhyphen"/>ceit and over-reach, and lurks to cozen and cheat, telling a falſhood, a flattery; ſo by fair ſpeaking and flattering words, oft times the ſimple is deceived: Therefore this is a Charge from the living God to you all, Be true, be faithful to God, be juſt, be innocent, and ask no more for the thing then you would have; be at a word, ſo ſay, and ſo do, when you ask more, then you will have, or almoſt double, and ſay you will not take it except you have ſo much, and then ſend your boyes after them, and ſo take
+<pb n="2" facs="tcp:105853:3"/>it, you are not here at ſo ſay, and ſo do; and here are you judged with the Law of Liberty to be out of it, far off the life of Chriſtians, like Heathen in life and practiſe; there<g ref="char:EOLhyphen"/>fore be at a word, and then you will be a good ſavour, for the Lord is come near to judgement among you; for while you are not at ſo ſay, and ſo do, you are not in the law of liberty, you are not in the Prophets, you are not in the Goſpel, you are found out of them all.</p>
+            <p>And again ye Merchants, great men, and rich men, what a diſhonor is it to you to go in your gold and ſilver, and gold Chains about your necks, and your coſtly attire, and your poor blind women and children, and creeples, crying and making a noiſe up and down your ſtreets, a diſhonor to your City, ſhewing that you are not under the Law, nor under the Goſpel; for under the Law they had tythes and tenths to feed all the fatherleſs and ſtran<g ref="char:EOLhyphen"/>gers, for tythes was for that work and end; for how can you go up and down in your ſuperfluity, and abound in your riches, and ſee the poor, blind, and creeples go about your ſtreets? which of all other, the blind ſhould be taken care of; therefore let theſe things be minded and conſi<g ref="char:EOLhyphen"/>dered, and fear God, and do that which may be an honor to you, and Chriſtianity, and your City; and in all your Shops, and Ware-Houſes, and Exchanges, keep to your words, and ſo ſay, and ſo do, and that you may not co<g ref="char:EOLhyphen"/>zen and cheat one another, nor no people; for this City hath a name and a bad report of deceitful Merchandize, which deceives the Countrey people that deals with you: O therefore blot it out, and do ſo no more, but judge one another in theſe things, and be a good ſavour, and com<g ref="char:EOLhyphen"/>mend your ſelves to the innocent and ſimple, that a child may come among you and not be wronged, and that will be pleaſing to God that you do righteouſly, and to the juſt God, that you do juſtly; and then to the righteous juſt God you will be a good ſavour, and to the countrey peo<g ref="char:EOLhyphen"/>ple, when you are turned from the bad to the good, ſo that you may be truſted for faithfulneſs and honeſty,
+<pb n="3" facs="tcp:105853:3"/>which on the contrary doing, it is diſhoneſty; and you that ſcrape, and cap, and courſie, and Sir, and Maſter, and Miſtris, and flatter one another with the deceitful titles, and ask more for your commodity then it is worth, and are not at a word, ſo ſay, and ſo do; but tell people you wil not take it, and then have your Boys and Laſſes to fetch them back again; this is the way to make the ſimple fear you, and the innocent to ſtand afar off, and to keep up a bad ſavour, and a bad name; therefore this is the word of the Lord God, and a charge to you in the preſence of the Lord God, and to you all, That you charge your ſervants not to cozen and cheat any, nor to ask more for your things then you'l take, and to keep to yea and nay in your common occaſions, and to keep to a word, and that will be pleaſing to God, and a good ſavour to all ſober people.</p>
+            <p>And all you Merchants whatſoever, and Shop-keepers, take heed of cozening and cheating of people with your dark back-windows; for truth is riſen that will keep out all deceit; therefore be ſober, and take it patiently, and live in it, for truth will make you free; therefore if you will be made free by truth, give over your deceitful Mer<g ref="char:EOLhyphen"/>chandize, and give over your many words, and keepe to yea and nay; Mark, you muſt be judged by the Law, and all your profeſſion and crying up Ordinances, and your notions and experiences, while you live in deceitful mer<g ref="char:EOLhyphen"/>chandize, and above yea and nay in your common occa<g ref="char:EOLhyphen"/>ſions, you are in the evil, and are not at ſo ſay, and ſo do; you are all judged by the law of liberty, that are deceit<g ref="char:EOLhyphen"/>ful in your merchandize, in your buying and ſelling, and cozening and cheating poor country people in your mer<g ref="char:EOLhyphen"/>chandize, you are not to name the Name of Chriſt but as you depart from Iniquity; and the truth hath not made you free who are found in the evil, Judged by the Law of liberty, and all your deceitful merchandize; therefore come to a word, come to yea and nay, all you young and old whatſoever, ſo by the Lord you will be received into his Kingdom; leaſt you be turned out with the rich Glut<g ref="char:EOLhyphen"/>ton,
+<pb n="4" facs="tcp:105853:4"/>and the poor <hi>Lazarus</hi> taken into <hi>Abrahams</hi> boſom: Therefore take in the blind, halt and lame, and obey the things that Chriſt commands you, ye that call him Lord, take in the blind and the creeples that cries up and down your ſtreets, and feaſt them when you make your ſeaſts; for the rich feaſt the rich, and not the poor that cannot feaſt them again; and ſee now if you will take up the Croſs of Chriſt, and obey his command, then you will become like unto them, when you obey Chriſts command, and ſhew that you have his ſpirit and minde in you, and are Chriſtians; for while you are not made free by truth, all your Religion and Profeſſion of Chriſt and the Apoſtles words, is vain, and your converſation is below in the earth, and not with Chriſt in Heaven. And again, all the while your poor, and blind, and lame creeples, and wo<g ref="char:EOLhyphen"/>men, and children are crying up &amp; down your ſtreets, and Steeplehouſe-doors, and alleys, and corners, after you that call your ſelves Chriſtians, and yet they Chriſtians as well as you, and ſo members of the ſame body; ſo you may ſay, Be clothed, be filled, be warmed, and be ſuch a people the Apoſtle ſpeaks of, yet let them be crying up &amp; down the Streets not provided for; ſo this is to hang gold on one arm, and let the other go bare; or hang gold on the back, and let the leg go bare; for all are members of one body, the poor as well as the rich; and this declares that you are out of the law: For the Lord took the tythes and gave them to the ſtrangers, and fatherleſs, and widows, and gave all enough, that there was not a beggar in <hi>Iſrae.</hi> among them. Now judge your ſelves, and ſee how ſhort you come of them in life and practice, which ſay you are Chriſtians, and profeſs the Goſpel; theſe things are a grief to many ſober people in the City, to ſee that Magiſtrates hath no more feeling of theſe things, and yet ſo much profeſſion of Re<g ref="char:EOLhyphen"/>ligion, and preaching among them, and ſo much riches that men never knew want of; and thereby many comes to be hardened, which they might think if it were but to keep the honor of their City, they would not let above all
+<pb n="5" facs="tcp:105853:4"/>things, blind men, and creeples, and lame people, and poor fatherleſs children make a noiſe up and down the ſtreets, and Steeplehouſe-doors; but out of their abun<g ref="char:EOLhyphen"/>dance they would lay a little aſide, and have a place pro<g ref="char:EOLhyphen"/>vided that all the poor, blind, lame creeples ſhould be put into, and Nurſes ſet over them, and looked to, cheriſhed, and ſeen unto that they do not want, and thus them that could work, to work; and this would be a good ſavour of the City, and of the Magiſtrates, Aldermen, and Merchants of the City, and to the ſober people, and to the Lord God, that there ſhould not be ſeen a beggar walk up and down the ſtreets, but that there might be a place where they might be maintained with a little out of their ſuperflui<g ref="char:EOLhyphen"/>ty; yea, before there ſhould be ſuch a noiſe with the poor, the blind, the lame, and the fatherleſs, every one lay by a little out of their abundance, and ſpare ſome off of their backs in gold and ſilver lace, or their chains and rings; for who conſidereth not the cry of the poor, but turneth his ear from them, them their Maker will not regard; and all who do not viſit the fatherleſs, and the poor, and the ſick, and feed the hungry, and clothe the naked, and are of a profeſſion of Religion, and makes a talk of Chriſts words, and the Prophets, and <hi>Moſes;</hi> ſuch are in the wiſdom be<g ref="char:EOLhyphen"/>low, which is earthly, ſenſual, and devilliſh, not preſervers of the Creation, not in the wiſdom that is from above, which is gentle, eaſie to be intreated, by which the crea<g ref="char:EOLhyphen"/>tion is to be preſerved, by which it muſt be ordered again to the glory of God; you going in your gold and ſilver, yea in your very ſhooes laced, and the poor want bread, want ſtockings &amp; ſhooes; &amp; you your many diſhes, change of di<g ref="char:EOLhyphen"/>ſhes, and that you call novelties, and the poor cannot get bread; ſpare one of your diſhes, and let it be carryed to the place for the poor, and do not let them come begging for it neither, but let them have a place where they may be kept, and that will be for your honour and renown; for conſider what abundance of riches is in this City, &amp; what good you might do with it, or how ſoon you may be taken
+<pb n="6" facs="tcp:105853:5" rendition="simple:additions"/>from it, or it from you, by fire or ſea, and yet for all this ye will not conſider your poor brethren which are made of the ſame blood and mould, to dwell upon the face of the Earth; Therefore mind truth that makes free from de<g ref="char:EOLhyphen"/>ceit, and from all cozening and diſſembling, and wil bring you to a word in all your common occaſions, and to ſo ſay, and ſo do, and to worſhip God in the truth, and to worſhip-God in the ſpirit, that the Devil is out of, &amp; come to the pure Religion, which is, to viſit the fatherleſs, to viſit the ſick, and relieve the hungry, and clothe the na<g ref="char:EOLhyphen"/>ked, that brings you to practice and to do the will of God; and give over your living in words, and your hearts afar off, ſurfeiting in riches, iniquity, and deceit; but come to honeſty and plain dealing, &amp; mercifulneſs, &amp; take heed of pride, and loftineſs, and wantonneſs, and haughtineſs, and walk humbly before the Lord, that you may come to the life the Saints was in, the Prophets, Chriſt, and the Apo<g ref="char:EOLhyphen"/>ſtles were in.</p>
+            <p>For the mighty day of the Lord is coming, wherein e<g ref="char:EOLhyphen"/>very one of you muſt give account of his deeds done in the body, and every mans work muſt be tryed by fire, and every mans works ſhall be brought to the light, and ma<g ref="char:EOLhyphen"/>nifeſt by it. So your day is not paſt, while you have time, priſe it.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
